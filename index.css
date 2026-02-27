@@ -10,9 +10,11 @@ h1 {
 p {
   font-family: verdana;
   font-size: 20px;
+  color: azure;
+  text-align: left;
 }
 
 h2{
-    color: crimson;
+    color: rgb(255, 169, 186);
     text-align: center;
 }
